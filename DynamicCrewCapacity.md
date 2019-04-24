@@ -71,9 +71,14 @@ Works with stock KSP 1.4+ [`ModuleAnimateGeneric.CrewCapacity`](https://kerbalsp
 
 [[forum](http://forum.kerbalspaceprogram.com/index.php?showtopic=163166)] [[github](https://github.com/linuxgurugamer/Tokamak-Refurbished-Parts)]
 
+[`DeployableHabitat`](https://github.com/linuxgurugamer/Tokamak-Refurbished-Parts/blob/master/PJHabitat/DeployableHabitat.cs)
+
 | Part | Animation Module | Airlock req. deployed | Airlock req. capacity |
 |------|------------------|:---------------------:|:---------------------:|
-| todo ||||
+| centrifugeSmall | `DeployableHabitat` | N | N |
+| TIinflato1 | `DeployableHabitat` | N | N |
+| TIinflato2 | `DeployableHabitat` | N | N |
+| TIinflatoFlat | `DeployableHabitat` | Y | N |
 
 ---
 ### Kerbalow Aerospace Inflatable / Expandables Parts Pack
