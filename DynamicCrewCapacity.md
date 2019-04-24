@@ -80,9 +80,13 @@ Works with stock KSP 1.4+ [`ModuleAnimateGeneric.CrewCapacity`](https://kerbalsp
 
 [[forum](http://forum.kerbalspaceprogram.com/index.php?showtopic=172622)] [[spacedock](https://www.spacedock.info/mod/1755/Kerbalow%20Aerospace)]
 
+Unable to load and verify due to missing models.  
+From configs, these do not appear to actually implement dynamic crew capacity.
+
 | Part | Animation Module | Airlock req. deployed | Airlock req. capacity |
 |------|------------------|:---------------------:|:---------------------:|
-| todo ||||
+| KEAM | `ModuleAnimateGeneric` |||
+| KA330exterior | `ModuleAnimateGeneric` |||
 
 ---
 ### Ven's Stock Revamp 
