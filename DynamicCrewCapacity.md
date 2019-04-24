@@ -32,9 +32,21 @@ Works with stock KSP 1.4+ [`ModuleAnimateGeneric.CrewCapacity`](https://kerbalsp
 
 [[forum](http://forum.kerbalspaceprogram.com/index.php?showtopic=170211)] [[github](https://github.com/ChrisAdderley/StationPartsExpansionRedux)]
 
+[`ModuleDeployableHabitat`](https://github.com/ChrisAdderley/StationPartsExpansionRedux/blob/master/Source/HabUtils/ModuleDeployableHabitat.cs)  
+[`ModuleDeployableCentrifuge`](https://github.com/ChrisAdderley/StationPartsExpansionRedux/blob/master/Source/HabUtils/ModuleDeployableCentrifuge.cs)
+
 | Part | Animation Module | Airlock req. deployed | Airlock req. capacity |
 |------|------------------|:---------------------:|:---------------------:|
-| todo ||||
+| sspx-inflatable-hab-125-1 | `ModuleDeployableHabitat` |n/a|n/a|
+| sspx-inflatable-hab-125-2 | `ModuleDeployableHabitat` |n/a|n/a|
+| sspx-inflatable-hab-125-3 | `ModuleDeployableHabitat` |n/a|n/a|
+| sspx-inflatable-hab-25-1 | `ModuleDeployableHabitat` |n/a|n/a|
+| sspx-inflatable-hab-25-2 | `ModuleDeployableHabitat` |n/a|n/a|
+| sspx-inflatable-centrifuge-125-1 | `ModuleDeployableCentrifuge` |n/a|n/a|
+| sspx-inflatable-centrifuge-125-2 | `ModuleDeployableCentrifuge` |n/a|n/a|
+| sspx-inflatable-centrifuge-25-1 | `ModuleDeployableCentrifuge` |n/a|n/a|
+| sspx-expandable-centrifuge-375-1 | `ModuleDeployableCentrifuge` |n/a|n/a|
+| sspx-expandable-centrifuge-375-2 | `ModuleDeployableCentrifuge` |n/a|n/a|
 
 ---
 ### USI Modular Kolonization System
