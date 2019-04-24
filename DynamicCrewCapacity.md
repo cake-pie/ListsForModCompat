@@ -14,7 +14,7 @@ Normally allows airlocks to be used even if the part has zero crew capacity, or 
     Before the part has been deployed, the airlock leads to a solid wall and is not usable. However, once the part is deployed, even when there are other kerbals seated in the part, there is plenty of space to move around them, so airlock can be used freely to access other parts of the craft without disturbing the occupants of the module.
   * Don't require deployment to use  
     e.g. An airlock connected to the rigid central hub of a module that has an inflatable outer ring  
-    Even eithout deploying the inflatable section, the airlock leads to a rigid section of the module. It doesn't matter if the module has zero crew capacity (seating places) when not deployed as long as the kerbal can "pass through" it and gain access via connected nodes to reach the rest of the craft.
+    Even without deploying the inflatable section, the airlock leads to a rigid section of the module. It doesn't matter if the module has zero crew capacity (seating places) when not deployed as long as the kerbal can "pass through" it and gain access via connected nodes to reach the rest of the craft.
 
 * **Connected Living Space** [ [forum](http://forum.kerbalspaceprogram.com/index.php?showtopic=109972) | [github](https://github.com/codepoetpbowden/ConnectedLivingSpace) ]  
 Needs to adjust to reflect changes in the crew capacity of a part.  
