@@ -90,9 +90,28 @@ WildBlueTools: [[github](https://github.com/Angel-125/WildBlueTools)]
 [`WBIMultipurposeLab`](https://github.com/Angel-125/Pathfinder/blob/master/Pathfinder/Science/WBIMultipurposeLab.cs) : `WBIMultipurposeHab`  
 [`WBIPackingBox`](https://github.com/Angel-125/Pathfinder/blob/master/Pathfinder/Parts/WBIPackingBox.cs) : `WBIMultipurposeLab`
 
+(Bundles MCM, Buffalo)
+
 | Part | Animation Module | Airlock req. deployed | Airlock req. capacity |
 |------|------------------|:---------------------:|:---------------------:|
-| todo ||||
+| WBI_SmokePipe | `WBICoolingTower` |?|?|
+| WBI_Chuckwagon | `WBIMultipurposeStorage` |?|?|
+| WBI_Hacienda | `WBIMultipurposeHab` |?|?|
+| WBI_Ponderosa | `WBIMultipurposeHab` |?|?|
+| WBI_Ponderosa2 | `WBIMultipurposeHab` |?|?|
+| WBI_DocSciLab | `WBIMultipurposeLab` |?|?|
+| wbiArcReactor | `WBIPackingBox` |?|?|
+| wbiCastilloAdapter | `WBIPackingBox` |?|?|
+| wbiCastilloFactory | `WBIPackingBox` |?|?|
+| wbiCastilloObservatory | `WBIPackingBox` |?|?|
+| wbiDrillingRig | `WBIPackingBox` |?|?|
+| wbiGroundStation | `WBIPackingBox` |?|?|
+| wbiPipeline2 | `WBIPackingBox` |?|?|
+| wbiRanchHouse2 | `WBIPackingBox` |?|?|
+| wbiRangeland2 | `WBIPackingBox` |?|?|
+| wbiStorageDepot | `WBIPackingBox` |?|?|
+| wbiWalkway1X | `WBIPackingBox` |?|?|
+| wbiWalkway2X | `WBIPackingBox` |?|?|
 
 #### Multipurpose Colony Modules for Pathfinder
 
