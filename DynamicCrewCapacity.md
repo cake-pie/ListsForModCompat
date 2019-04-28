@@ -67,13 +67,56 @@ Works with stock KSP 1.4+ [`ModuleAnimateGeneric.CrewCapacity`](https://kerbalsp
 | Tundra_HabRing | `USIAnimation` |n/a|n/a|
 
 ---
-### Pathfinder
+### Angel-125 / WildBlueIndustries
 
-[[forum](http://forum.kerbalspaceprogram.com/index.php?showtopic=121397)] [[github](https://github.com/Angel-125/Pathfinder)]
+WildBlueTools: [[github](https://github.com/Angel-125/WildBlueTools)]
+
+[`WBIInflatablePartModule`](https://github.com/Angel-125/WildBlueTools/blob/master/Parts/WBIInflatablePartModule.cs)  
+[`WBIResourceSwitcher`](https://github.com/Angel-125/WildBlueTools/blob/master/Switchers/WBIResourceSwitcher.cs) : `WBIInflatablePartModule`  
+[`WBIModuleSwitcher`](https://github.com/Angel-125/WildBlueTools/blob/master/Switchers/WBIModuleSwitcher.cs) : `WBIResourceSwitcher`  
+[`WBIAffordableSwitcher`](https://github.com/Angel-125/WildBlueTools/blob/master/Switchers/WBIAffordableSwitcher.cs) : `WBIModuleSwitcher`  
+[`WBIConvertibleStorage`](https://github.com/Angel-125/WildBlueTools/blob/master/Switchers/WBIConvertibleStorage.cs) : `WBIAffordableSwitcher`  
+[`WBIOpsManager`](https://github.com/Angel-125/WildBlueTools/blob/master/Switchers/WBIOpsManager.cs) : `WBIConvertibleStorage`  
+[`WBIMultiConverter`](https://github.com/Angel-125/WildBlueTools/blob/master/Converters/WBIMultiConverter.cs) : `WBIOpsManager`  
+[`WBIConvertibleMPL`](https://github.com/Angel-125/WildBlueTools/blob/master/Switchers/WBIConvertibleMPL.cs) : `WBIMultiConverter`  
+
+#### Pathfinder
+
+[[forum](http://forum.kerbalspaceprogram.com/index.php?showtopic=121397)] [[github](https://github.com/Angel-125/Pathfinder)]  
+
+[`WBICoolingTower`](https://github.com/Angel-125/Pathfinder/blob/master/Pathfinder/Parts/WBICoolingTower.cs) : `WBIInflatablePartModule`  
+[`WBIMultipurposeStorage`](https://github.com/Angel-125/Pathfinder/blob/master/Pathfinder/Utility/WBIMultipurposeStorage.cs) : `WBIMultiConverter`  
+[`WBIMultipurposeHab`](https://github.com/Angel-125/Pathfinder/blob/master/Pathfinder/Habitat/WBIMultipurposeHab.cs) : `WBIMultiConverter`  
+[`WBIMultipurposeLab`](https://github.com/Angel-125/Pathfinder/blob/master/Pathfinder/Science/WBIMultipurposeLab.cs) : `WBIMultipurposeHab`  
+[`WBIPackingBox`](https://github.com/Angel-125/Pathfinder/blob/master/Pathfinder/Parts/WBIPackingBox.cs) : `WBIMultipurposeLab`
 
 | Part | Animation Module | Airlock req. deployed | Airlock req. capacity |
 |------|------------------|:---------------------:|:---------------------:|
 | todo ||||
+
+#### Multipurpose Colony Modules for Pathfinder
+
+[[forum](http://forum.kerbalspaceprogram.com/index.php?showtopic=88605)] [[github](https://github.com/Angel-125/MCM)]
+
+| Part | Animation Module | Airlock req. deployed | Airlock req. capacity | Remarks |
+|------|------------------|:---------------------:|:---------------------:|---------|
+| WBI_HomesteadMk2 | `WBIMultipurposeLab` |?|?|
+| WBI_Stockyard2502 | `WBIInflatablePartModule` |?|?| No crew capacity
+| WBI_Stockyard3752 | `WBIInflatablePartModule` |?|?| No crew capacity
+
+#### Buffalo
+
+[[forum](http://forum.kerbalspaceprogram.com/index.php?showtopic=122617)] [[github](https://github.com/Angel-125/Buffalo)]
+
+| Part | Animation Module | Airlock req. deployed | Airlock req. capacity | Remarks |
+|------|------------------|:---------------------:|:---------------------:|---------|
+| WBI_Wagon2u | `WBIConvertibleStorage` |n/a|n/a| No crew capacity
+
+#### Mark One Laboratory Extensions
+
+[[forum](http://forum.kerbalspaceprogram.com/index.php?showtopic=154893)] [[github](https://github.com/Angel-125/MOLE)]
+
+(Uses modules that support inflation on non-inflated parts.)
 
 ---
 ### Tokamak Industries Refurbished Parts
