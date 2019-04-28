@@ -53,9 +53,18 @@ Works with stock KSP 1.4+ [`ModuleAnimateGeneric.CrewCapacity`](https://kerbalsp
 
 [[forum](http://forum.kerbalspaceprogram.com/index.php?showtopic=154587)] [[github](https://github.com/UmbraSpaceIndustries/MKS)]
 
+[`USIAnimation`](https://github.com/UmbraSpaceIndustries/UmbraSpaceIndustries/blob/master/USITools/USITools/USIAnimation.cs)
+
 | Part | Animation Module | Airlock req. deployed | Airlock req. capacity |
 |------|------------------|:---------------------:|:---------------------:|
-| todo ||||
+| KER_Shelter | `USIAnimation` | Y | N |
+| Ranger_MiniHab | `USIAnimation` | Y | N |
+| Ranger_HabModule | `USIAnimation` | Y | N |
+| Ranger_Workshop | `USIAnimation` | Y | N |
+| Ranger_AgModule | `USIAnimation` |n/a|n/a|
+| Tundra_275_Hab | `USIAnimation` |n/a|n/a|
+| Tundra_425_Hab | `USIAnimation` |n/a|n/a|
+| Tundra_HabRing | `USIAnimation` |n/a|n/a|
 
 ---
 ### Pathfinder
